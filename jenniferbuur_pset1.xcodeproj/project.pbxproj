@@ -12,6 +12,17 @@
 		D24656EC1E4DE7FB00D17801 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D24656EA1E4DE7FB00D17801 /* Main.storyboard */; };
 		D24656EE1E4DE7FB00D17801 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D24656ED1E4DE7FB00D17801 /* Assets.xcassets */; };
 		D24656F11E4DE7FB00D17801 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D24656EF1E4DE7FB00D17801 /* LaunchScreen.storyboard */; };
+		D24657031E51EC0000D17801 /* arms.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656F81E51EC0000D17801 /* arms.png */; };
+		D24657041E51EC0000D17801 /* body.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656F91E51EC0000D17801 /* body.png */; };
+		D24657051E51EC0000D17801 /* ears.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656FA1E51EC0000D17801 /* ears.png */; };
+		D24657061E51EC0000D17801 /* eyebrows.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656FB1E51EC0000D17801 /* eyebrows.png */; };
+		D24657071E51EC0000D17801 /* eyes.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656FC1E51EC0000D17801 /* eyes.png */; };
+		D24657081E51EC0000D17801 /* glasses.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656FD1E51EC0000D17801 /* glasses.png */; };
+		D24657091E51EC0000D17801 /* hat.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656FE1E51EC0000D17801 /* hat.png */; };
+		D246570A1E51EC0000D17801 /* mouth.png in Resources */ = {isa = PBXBuildFile; fileRef = D24656FF1E51EC0000D17801 /* mouth.png */; };
+		D246570B1E51EC0000D17801 /* mustache.png in Resources */ = {isa = PBXBuildFile; fileRef = D24657001E51EC0000D17801 /* mustache.png */; };
+		D246570C1E51EC0000D17801 /* nose.png in Resources */ = {isa = PBXBuildFile; fileRef = D24657011E51EC0000D17801 /* nose.png */; };
+		D246570D1E51EC0000D17801 /* shoes.png in Resources */ = {isa = PBXBuildFile; fileRef = D24657021E51EC0000D17801 /* shoes.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +33,18 @@
 		D24656ED1E4DE7FB00D17801 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D24656F01E4DE7FB00D17801 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D24656F21E4DE7FB00D17801 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D24656F81E51EC0000D17801 /* arms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = arms.png; path = "../../mr-potato-head-images/arms.png"; sourceTree = "<group>"; };
+		D24656F91E51EC0000D17801 /* body.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = body.png; path = "../../mr-potato-head-images/body.png"; sourceTree = "<group>"; };
+		D24656FA1E51EC0000D17801 /* ears.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ears.png; path = "../../mr-potato-head-images/ears.png"; sourceTree = "<group>"; };
+		D24656FB1E51EC0000D17801 /* eyebrows.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eyebrows.png; path = "../../mr-potato-head-images/eyebrows.png"; sourceTree = "<group>"; };
+		D24656FC1E51EC0000D17801 /* eyes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eyes.png; path = "../../mr-potato-head-images/eyes.png"; sourceTree = "<group>"; };
+		D24656FD1E51EC0000D17801 /* glasses.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = glasses.png; path = "../../mr-potato-head-images/glasses.png"; sourceTree = "<group>"; };
+		D24656FE1E51EC0000D17801 /* hat.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = hat.png; path = "../../mr-potato-head-images/hat.png"; sourceTree = "<group>"; };
+		D24656FF1E51EC0000D17801 /* mouth.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mouth.png; path = "../../mr-potato-head-images/mouth.png"; sourceTree = "<group>"; };
+		D24657001E51EC0000D17801 /* mustache.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = mustache.png; path = "../../mr-potato-head-images/mustache.png"; sourceTree = "<group>"; };
+		D24657011E51EC0000D17801 /* nose.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nose.png; path = "../../mr-potato-head-images/nose.png"; sourceTree = "<group>"; };
+		D24657021E51EC0000D17801 /* shoes.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = shoes.png; path = "../../mr-potato-head-images/shoes.png"; sourceTree = "<group>"; };
+		D246570F1E51F25600D17801 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +80,17 @@
 				D24656E61E4DE7FB00D17801 /* AppDelegate.swift */,
 				D24656E81E4DE7FB00D17801 /* ViewController.swift */,
 				D24656EA1E4DE7FB00D17801 /* Main.storyboard */,
+				D24656F81E51EC0000D17801 /* arms.png */,
+				D24656F91E51EC0000D17801 /* body.png */,
+				D24656FA1E51EC0000D17801 /* ears.png */,
+				D24656FB1E51EC0000D17801 /* eyebrows.png */,
+				D24656FC1E51EC0000D17801 /* eyes.png */,
+				D24656FD1E51EC0000D17801 /* glasses.png */,
+				D24656FE1E51EC0000D17801 /* hat.png */,
+				D24656FF1E51EC0000D17801 /* mouth.png */,
+				D24657001E51EC0000D17801 /* mustache.png */,
+				D24657011E51EC0000D17801 /* nose.png */,
+				D24657021E51EC0000D17801 /* shoes.png */,
 				D24656ED1E4DE7FB00D17801 /* Assets.xcassets */,
 				D24656EF1E4DE7FB00D17801 /* LaunchScreen.storyboard */,
 				D24656F21E4DE7FB00D17801 /* Info.plist */,
@@ -123,8 +157,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D246570A1E51EC0000D17801 /* mouth.png in Resources */,
 				D24656F11E4DE7FB00D17801 /* LaunchScreen.storyboard in Resources */,
+				D24657071E51EC0000D17801 /* eyes.png in Resources */,
+				D24657081E51EC0000D17801 /* glasses.png in Resources */,
+				D246570D1E51EC0000D17801 /* shoes.png in Resources */,
+				D24657041E51EC0000D17801 /* body.png in Resources */,
+				D246570B1E51EC0000D17801 /* mustache.png in Resources */,
+				D24657051E51EC0000D17801 /* ears.png in Resources */,
+				D246570C1E51EC0000D17801 /* nose.png in Resources */,
+				D24657091E51EC0000D17801 /* hat.png in Resources */,
 				D24656EE1E4DE7FB00D17801 /* Assets.xcassets in Resources */,
+				D24657061E51EC0000D17801 /* eyebrows.png in Resources */,
+				D24657031E51EC0000D17801 /* arms.png in Resources */,
 				D24656EC1E4DE7FB00D17801 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -148,6 +193,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				D24656EB1E4DE7FB00D17801 /* Base */,
+				D246570F1E51F25600D17801 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
